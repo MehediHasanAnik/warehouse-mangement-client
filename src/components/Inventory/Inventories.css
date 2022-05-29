@@ -1,0 +1,16 @@
+h1.title.text-center.py-3 {
+    font-size: 41px;
+    color: #21165E;
+}
+
+@media (max-width:425px) {
+    .title {
+        font-size: 25px !important;
+    }
+}
+
+@media (max-width:375px) {
+    .title {
+        font-size: 25px !important;
+    }
+}

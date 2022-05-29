@@ -1,0 +1,22 @@
+img {
+    margin-left: 0;
+}
+
+.shopping {
+    padding: 51px;
+}
+
+p {
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 32px;
+}
+
+.button {
+    padding: 5px 30px;
+    border-radius: 5px;
+}
